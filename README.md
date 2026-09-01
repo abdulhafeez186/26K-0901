@@ -24,3 +24,15 @@
 ## Projects
 
 Currently, I am in my 1st semester and have not completed any major technical projects yet. I am building my programming skills and looking forward to working on projects during my degree.
+
+## Hobbies and Extracurricular Activities
+
+1. playing Basket Ball
+    - [x] Practice twice a week
+    - [x] Join a local team
+    - [ ] Participating in tournament
+2. Reading Books
+3. Coding
+
+
+
